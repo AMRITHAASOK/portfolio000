@@ -1,0 +1,33 @@
+body{
+    background-color: thistle;
+}
+
+div{
+    background-color: rgb(157, 157, 240);
+    width: 20%;
+    height: 500px;
+    margin: 30px;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+h1{
+    text-align: center;
+    text-shadow: 4px 6px 6px;
+    color: rgb(223, 32, 32);
+    text-decoration: underline;
+}
+#d1{
+    background-color: rgb(117, 203, 117);
+}
+#d2{
+    background-color: rgb(235, 152, 194);
+}
+#d3{
+    background-color: rgb(185, 132, 108);
+}
+p{
+    color: darkslategray;
+}
